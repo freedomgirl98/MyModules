@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyModules</string>
+    <string name="textView">C346 Android Programming</string>
+    <string name="textView2">iPad Programming</string>
+    <string name="textviewMC">TextView</string>
+    <string name="textviewMN">TextView</string>
+    <string name="textviewAY">TextView</string>
+    <string name="textviewSem">TextView</string>
+    <string name="textviewMCredit">TextView</string>
+    <string name="textviewVenue">TextView</string>
+    <string name="back">back</string>
+</resources>
